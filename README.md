@@ -7,6 +7,7 @@ Procuro a minha oportunidade de me desenvolver e crescer profissionalmente.
 
 Skills: SQL, Excel, PowerBI
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning Python 
-- 📫 How to reach me: joaocrnascimentopro@gmail.com 
+- 🔭 Estou trabalhando no meus projectos em SQL e PowerBI. 
+- 🌱 Estou aprendendo Python 
+- 📫 Como me contactar: joaocrnascimentopro@gmail.com 
+- 📫 Como me contactar: + 351 917481931
