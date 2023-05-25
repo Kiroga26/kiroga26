@@ -7,6 +7,9 @@ Procuro a minha oportunidade de me desenvolver e crescer profissionalmente.
 
 Skills: SQL, Excel, PowerBI
 
+## Exemplos de Dashboards
+<img src="
+
 - 🔭 Estou trabalhando no meus projectos em SQL e PowerBI. 
 - 🌱 Estou aprendendo Python 
 - 📫 Como me contactar: joaocrnascimentopro@gmail.com 
