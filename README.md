@@ -1,6 +1,6 @@
 ### Hi there 👋, Meu nome é João Nascimento
 #### Analista de dados
-![Analista de dados](https://drive.google.com/uc?export=view&id=12V_VhKYGxw13o4qXZwEHj-Kj3v7KlRqP)
+![Analista de dados]([https://drive.google.com/uc?export=view&id=12V_VhKYGxw13o4qXZwEHj-Kj3v7KlRqP](https://github.com/Kiroga26/kiroga26/blob/main/Insights%20from%20Data%2C%20Decisions%20for%20your%20business.png))
 
 Apaixonado por descobrir insights de um grande volume de dados para conduzir as principais decisões de negócios.
 Procuro a minha oportunidade de me desenvolver e crescer profissionalmente.
