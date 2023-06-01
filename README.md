@@ -8,7 +8,11 @@ Procuro a minha oportunidade de me desenvolver e crescer profissionalmente.
 Skills: SQL, Excel, PowerBI
 
 ## Exemplos de Dashboards
-<img src="https://github.com/Kiroga26/kiroga26/blob/main/Comercial%20-%20jun%201%2C%202023%2022_25_57.gif" /> <img src="https://github.com/Kiroga26/kiroga26/blob/main/Comercial%20-%20jun%201%2C%202023%2022_25_57.gif" />
+# Comercial
+<img src="https://github.com/Kiroga26/kiroga26/blob/main/Comercial%20-%20jun%201%2C%202023%2022_25_57.gif" /> 
+
+# Acidentes Rodoviários
+<img src="https://github.com/Kiroga26/kiroga26/blob/main/rodoviario%20-%20jun%201%2C%202023%2022_50_04.gif" />
 
 - 🔭 Estou trabalhando no meus projectos em SQL e PowerBI. 
 - 🌱 Estou aprendendo Python 
